@@ -1,0 +1,7 @@
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\ViewModel\bin\Debug\ViewModel.dll
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\ViewModel\bin\Debug\ViewModel.pdb
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\ViewModel\bin\Debug\Model.dll
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\ViewModel\bin\Debug\Model.pdb
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\ViewModel\obj\Debug\ViewModel.dll
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\ViewModel\obj\Debug\ViewModel.pdb

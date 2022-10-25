@@ -1,0 +1,45 @@
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\bin\Debug\MVVM Example.exe.config
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\bin\Debug\MVVM Example.exe
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\bin\Debug\MVVM Example.pdb
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\bin\Debug\ViewModel.dll
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\bin\Debug\Model.dll
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\bin\Debug\ViewModel.pdb
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\bin\Debug\Model.pdb
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csprojResolveAssemblyReference.cache
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MainWindow.g.cs
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\App.g.cs
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example_MarkupCompile.cache
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example_MarkupCompile.lref
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MainWindow.baml
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.g.resources
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM_Example.Properties.Resources.resources
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csproj.GenerateResource.Cache
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.exe
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.pdb
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\CustomerView.g.cs
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\MVVM Example\obj\Debug\CustomerView.baml
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\bin\Debug\MVVM Example.exe.config
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\bin\Debug\MVVM Example.exe
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\bin\Debug\MVVM Example.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\bin\Debug\ViewModel.dll
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\bin\Debug\Model.dll
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\bin\Debug\ViewModel.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\bin\Debug\Model.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\CustomerView.g.cs
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\App.g.cs
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example_MarkupCompile.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example_MarkupCompile.lref
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\CustomerView.baml
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MainWindow.baml
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.g.resources
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM_Example.Properties.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.csproj.CopyComplete
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.exe
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\MVVM Example\obj\Debug\MVVM Example.pdb

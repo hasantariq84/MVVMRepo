@@ -1,0 +1,5 @@
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\Model\bin\Debug\Model.dll
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\Model\bin\Debug\Model.pdb
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\Model\obj\Debug\Model.dll
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\Model\obj\Debug\Model.pdb

@@ -1,0 +1,10 @@
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\Model\bin\Debug\Model.dll
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\Model\bin\Debug\Model.pdb
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\Model\obj\Debug\Model.dll
+c:\users\tariqha\documents\visual studio 2015\Projects\MVVM Example\Model\obj\Debug\Model.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\Model\bin\Debug\Model.dll
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\Model\bin\Debug\Model.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\Model\obj\Debug\MVVM Model.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\Model\obj\Debug\MVVM Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\Model\obj\Debug\Model.dll
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\MVVM Example\Model\obj\Debug\Model.pdb
